@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 1fdbd555-4f92-488d-87f3-5c26265f8410
-  title: Data Visualization|Ohio State University Libraries
+  title: Data Visualization
   description: Library curated resources to enhance your data visualization and data preparation skills.
   keywords: data visualization, data preparation, Excel, Tableau, Python, R
   authors: Sarah Anne Murphy
