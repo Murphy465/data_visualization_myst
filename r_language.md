@@ -28,7 +28,7 @@ R is a free, open-source statistical programming language that is popular in sev
 ::::{grid} 1 1 
 
 :::{card}
-:R for Data Science
+header: R for Data Science
 ![R for Data Science cover](images/Cover_RForDataScience_small.png)  
 +++
 __[R for Data Science](https://library-ohio-state-edu.proxy.lib.ohio-state.edu/record=b9493427~S7)__    
