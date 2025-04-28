@@ -36,7 +36,5 @@ by Hadley Wickham, Garrett Grolemund
 Sebastopol, CA : O'Reilly Media, 2016.
 :::
 
-
-
 ::::
 
