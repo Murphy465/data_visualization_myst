@@ -21,7 +21,7 @@ project:
       - file: tableau.md
       - file: python.md
       - file: r_language.md
-    -title: TUTORIALS
+    - title: TUTORIALS
 
 
     
