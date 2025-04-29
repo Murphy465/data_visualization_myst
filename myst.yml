@@ -23,6 +23,7 @@ project:
       - file: r_language.md
     - title: Tutorials
       children:
+      - file: python_basics.ipynb
       - file: lantern.ipynb
 
 
