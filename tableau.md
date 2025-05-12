@@ -1,12 +1,12 @@
 ---
 title: Tableau
 subject: Resources
-short_title: Tableau
+short_title: ... Tableau
 authors:
-  - name: Sarah Murphy
+  - name: Sarah Anne Murphy
     affiliations:
       - The Ohio State University Libraries
-      - Data Literacy and Data Visualization Librarian
+      # - Data Literacy and Data Visualization Librarian
     orcid: 0000-0002-7787-6890
 license: CC-BY-4.0
 keywords: data visualization, tableau
@@ -24,7 +24,7 @@ University Libraries also offers __[free Tableau training](https://library.osu.e
 
 :::{card}
 :header: Practical Tableau
-![Practical Tableau cover](images/Cover_Sleeper_PracticalTableau_small.png)
+![](images/cover_sleeper_practical_tableau.png "Decorative book cover")
 +++
 __[Practical Tableau : 100 tips, tutorials, and strategies from a Tableau Zen Master](https://library-ohio-state-edu.proxy.lib.ohio-state.edu/record=b9500815~S7)__  
 by Ryan Sleeper  
@@ -35,7 +35,7 @@ With screenshots, step-by-step instructions and succinct explanations of key Tab
 
 :::{card}
 :header: Innovative Tableau
-![Innovative Tableau cover](images/Cover_Sleeper_InnovativeTableau_small.png)
+![](images/cover_sleeper_innovative_tableau.png "Decorative book cover")
 +++
 __[Innovative Tableau : 100 more tips, tutorials, and strategies](https://library-ohio-state-edu.proxy.lib.ohio-state.edu/record=b9502888~S7)__  
 by Ryan Sleeper  

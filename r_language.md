@@ -1,15 +1,15 @@
 ---
 title: R
 subject: Resources
-short_title: R
+short_title: ... R
 authors:
-  - name: Sarah Murphy
+  - name: Sarah Anne Murphy
     affiliations:
       - The Ohio State University Libraries
-      - Data Literacy and Data Visualization Librarian
+    #   - Data Literacy and Data Visualization Librarian
     orcid: 0000-0002-7787-6890
 license: CC-BY-4.0
-keywords: data visualization, r programming language
+keywords: data visualization, R programming language
 #abstract: 
 ---
 R is a free, open-source statistical programming language that is popular in several academic fields. R offers several packages supporting data cleaning and data visualization, inclugin ggplot and plotly. 
@@ -25,11 +25,11 @@ R is a free, open-source statistical programming language that is popular in sev
 
 ## Books
 
-::::{grid} 1 1 
+::::{grid} 1 1 2 3
 
 :::{card}
-header: R for Data Science
-![R for Data Science cover](images/Cover_RForDataScience_small.png)  
+:header: R for Data Science
+![](images/cover_rfordatascience.png "Decorative book cover")  
 +++
 __[R for Data Science](https://library-ohio-state-edu.proxy.lib.ohio-state.edu/record=b9493427~S7)__    
 by Hadley Wickham, Garrett Grolemund  
